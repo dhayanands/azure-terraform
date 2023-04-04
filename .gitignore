@@ -27,3 +27,6 @@ override.tf.json
 
 # Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
 # example: *tfplan*
+
+# ignore refer.md that i use as cheetsheet with commands with actual values :)
+refer.md
